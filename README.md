@@ -1,5 +1,6 @@
 # Grade-Manager
-This is a Microsoft Excel file (.xlsm) that can be used to keep track of grades of students in a class. Students can be divided into sections with different teachers assistants(TA). TAs each get a XLSX file to update their students' grades. All the grades and new assignments can be synced and updated from the main Grade Manager file.
+This is a Microsoft Excel file (.xlsm) that can be used to keep track of grades of students in a class. Students can be divided into sections with different teachers assistants(TA). TAs each get a XLSX file to update their students' grades. All the grades and new assignments can be synced and updated from the main Grade Manager file.  
+Read the article about this project on my blog for more information - [Click Here](https://peshalaprabhapoorna.wordpress.com/2023/07/23/grade-manager-for-tracking-student-performance-ms-excel/)
 
 *Grade Manager.xlsm* - Run this file to initiate the class, section and assignment creation. This file will create a folder for the class, save the Grade Manager file in that folder and create a sections folder to store the files with students seperated into respetive sections.  
 
